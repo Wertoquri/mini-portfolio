@@ -1,5 +1,5 @@
 ## це моя сторінка
 
--це проста сторінка [подивіться самі](wertoquri.github.io/simple_page/)
+-це проста сторінка [подивіться самі]([wertoquri.github.io/simple_page/](https://github.com/Wertoquri/simple_page))
 -використовується всього 3 кольорових відтінків
 -розташовуються всього 3 кнопки по центру
